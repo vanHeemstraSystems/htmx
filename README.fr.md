@@ -13,7 +13,9 @@ htmx
 
 **Résumé exécutif**
 
-Texte
+L'architecture HyperMedia-Driven Architecture (HDA) est une synthèse de deux architectures précédentes : l'architecture d'application multipage (MPA) d'origine et l'architecture (relativement) plus récente d'application monopage.
+
+Il tente de capturer les avantages des deux : la simplicité et la fiabilité des AMP, avec une[Architecture REST-ful](https://developer.mozilla.org/en-US/docs/Glossary/REST)qui utilise[L'hypermédia comme moteur de l'état des applications](https://htmx.org/essays/hateoas/), tout en offrant une meilleure expérience utilisateur, à égalité avec les SPA dans de nombreux cas.
 
 ## 100 - Introduction
 
