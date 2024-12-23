@@ -1,4 +1,4 @@
-htmx
+HTMX
 
 # HTMX
 
@@ -13,9 +13,9 @@ htmx
 
 **執行摘要**
 
-超媒體驅動架構 (HDA) 架構是兩種先前架構的綜合：原始的多頁面應用程式 (MPA) 架構和（相對）較新的單頁應用程式架構。
+超媒體驅動架構 (HDA) 架構是兩種先前架構的綜合：原始的多頁面應用程式 (MPA) 架構和（相對）較新的單頁應用程式 (SPA) 架構。
 
-它試圖抓住兩者的優點：MPA 的簡單性和可靠性，並具有[REST 式架構](https://developer.mozilla.org/en-US/docs/Glossary/REST)使用[Hypermedia As The Engine Of Application State](https://htmx.org/essays/hateoas/)，同時提供更好的使用者體驗，在許多情況下與 SPA 相當。
+它試圖抓住兩者的優點：MPA 的簡單性和可靠性，並具有[REST 式架構](https://developer.mozilla.org/en-US/docs/Glossary/REST)使用[超媒體作為應用程式狀態的引擎](https://htmx.org/essays/hateoas/)，同時提供更好的使用者體驗，在許多情況下與 SPA 相當。
 
 ## 100 - 簡介
 
@@ -27,7 +27,7 @@ htmx
 
 ## 300 - 建立我們的應用程式
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
 ## 400 - 結論
 
