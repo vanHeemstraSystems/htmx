@@ -19,3 +19,7 @@ See [README.md](./400/README.md)
 ## 500 - Examples
 
 See [README.md](./500/README.md)
+
+## 600 - Documentation
+
+See [README.md](./600/README.md)
