@@ -5,7 +5,7 @@ htmx
 > outils puissants pour HTML
 
 -   [Documentation](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [Glossaire](./GLOSSARY.md)
 -   [Images](./IMAGES.md)
 -   [Tamisé](./PODMAN.md)
 -   [References](./REFERENCES.md)
