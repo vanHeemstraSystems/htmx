@@ -6,7 +6,7 @@ htmx
 
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
--   [इमेजिस](./IMAGES.md)
+-   [Images](./IMAGES.md)
 -   [मातहत](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
@@ -15,13 +15,13 @@ htmx
 
 हाइपरमीडिया-संचालित आर्किटेक्चर (एचडीए) आर्किटेक्चर दो पूर्ववर्ती आर्किटेक्चर का संश्लेषण है: मूल मल्टी-पेज एप्लिकेशन (एमपीए) आर्किटेक्चर और (अपेक्षाकृत) नया सिंगल-पेज एप्लिकेशन (एसपीए) आर्किटेक्चर।
 
-यह दोनों के फायदों को पकड़ने का प्रयास करता है: एमपीए की सादगी और विश्वसनीयता[विश्रामपूर्ण वास्तुकला](https://developer.mozilla.org/en-US/docs/Glossary/REST)जो उपयोग करता है[हाइपरमीडिया अनुप्रयोग स्थिति के इंजन के रूप में](https://htmx.org/essays/hateoas/), कई मामलों में एसपीए के बराबर बेहतर उपयोगकर्ता अनुभव प्रदान करते हुए।
+यह दोनों के फायदों को पकड़ने का प्रयास करता है: एमपीए की सादगी और विश्वसनीयता[विश्रामपूर्ण वास्तुकला](https://developer.mozilla.org/en-US/docs/Glossary/REST)जो उपयोग करता है[हाइपरमीडिया अनुप्रयोग स्थिति के इंजन के रूप में](https://htmx.org/essays/hateoas/), while providing a better user experience, on par with SPAs in many cases.
 
 ## 100 - परिचय
 
 देखना[README.md](./100/README.md)
 
-## 200 - आवश्यकताएँ
+## 200 - Requirements
 
 देखना[README.md](./200/README.md)
 
@@ -31,4 +31,4 @@ htmx
 
 ## 400 - निष्कर्ष
 
-देखना[README.md](./400/README.md)
+See [README.md](./400/README.md)
