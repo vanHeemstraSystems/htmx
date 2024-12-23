@@ -4,10 +4,10 @@ repositorynaam
 
 > Slaklijn
 
--   [Documentatie](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
 -   [Afbeeldingen](./IMAGES.md)
--   [Ingetogen](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
