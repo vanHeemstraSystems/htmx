@@ -2,7 +2,7 @@ htmx
 
 # HTMX
 
-> leistungsstarke Tools für HTML
+> high power tools for HTML
 
 -   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
