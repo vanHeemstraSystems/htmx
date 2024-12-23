@@ -5,7 +5,7 @@ HTMX
 > 强大的 HTML 工具
 
 -   [文档](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [词汇表](./GLOSSARY.md)
 -   [图片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [参考](./REFERENCES.md)
@@ -13,7 +13,7 @@ HTMX
 
 **执行摘要**
 
-文本
+Text
 
 ## 100 - 简介
 
