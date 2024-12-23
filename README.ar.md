@@ -17,7 +17,7 @@ htmx
 
 وهو يحاول التقاط مزايا كليهما: بساطة وموثوقية المناطق البحرية المحمية، مع أ[هندسة معمارية REST-ful](https://developer.mozilla.org/en-US/docs/Glossary/REST)الذي يستخدم[الوسائط التشعبية كمحرك لحالة التطبيق](https://htmx.org/essays/hateoas/)، مع توفير تجربة أفضل للمستخدم، على قدم المساواة مع SPA في كثير من الحالات.
 
-## 100 - Introduction
+## 100- مقدمة
 
 يرى[README.md](./100/README.md)
 
