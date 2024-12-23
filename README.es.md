@@ -4,7 +4,7 @@ htmx
 
 > herramientas de alta potencia para HTML
 
--   [Documentation](./DOCUMENTATION.md)
+-   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
 -   [Imágenes](./IMAGES.md)
 -   [Suave](./PODMAN.md)
