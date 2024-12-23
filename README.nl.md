@@ -11,11 +11,11 @@ htmx
 -   [Referenties](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Samenvatting**
 
 De HyperMedia-Driven Architecture (HDA) -architectuur is een synthese van twee voorgaande architecturen: de oorspronkelijke Multi-Page Application (MPA) -architectuur en de (relatief) nieuwere Single-Page Application (SPA) -architectuur.
 
-Het probeert de voordelen van beide te benutten: de eenvoud en betrouwbaarheid van MPA's, met een[REST-volle architectuur](https://developer.mozilla.org/en-US/docs/Glossary/REST) that uses [Hypermedia als motor van applicatiestatus](https://htmx.org/essays/hateoas/), terwijl het een betere gebruikerservaring biedt, vergelijkbaar met SPA's in veel gevallen.
+Het probeert de voordelen van beide te benutten: de eenvoud en betrouwbaarheid van MPA's, met een[REST-volle architectuur](https://developer.mozilla.org/en-US/docs/Glossary/REST)dat gebruikt[Hypermedia als motor van applicatiestatus](https://htmx.org/essays/hateoas/), terwijl het een betere gebruikerservaring biedt, vergelijkbaar met SPA's in veel gevallen.
 
 ## 100 - Inleiding
 
@@ -23,7 +23,7 @@ Zien[README.md](./100/README.md)
 
 ## 200 - Vereisten
 
-See [README.md](./200/README.md)
+Zien[README.md](./200/README.md)
 
 ## 300 - Onze applicatie bouwen
 
