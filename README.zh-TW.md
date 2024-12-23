@@ -2,7 +2,7 @@ HTMX
 
 # HTMX
 
-> 強大的 HTML 工具
+> high power tools for HTML
 
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
