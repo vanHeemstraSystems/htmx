@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+htmx
+# HTMX
 
-> Slugline
+> high power tools for HTML
 
 - [Documentation](./DOCUMENTATION.md)
 - [Glossary](./GLOSSARY.md)
