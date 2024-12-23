@@ -6,7 +6,7 @@ htmx
 
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
--   [Images](./IMAGES.md)
+-   [इमेजिस](./IMAGES.md)
 -   [मातहत](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
@@ -15,9 +15,9 @@ htmx
 
 मूलपाठ
 
-## 100 - परिचय
+## 100 - Introduction
 
-See [README.md](./100/README.md)
+देखना[README.md](./100/README.md)
 
 ## 200 - आवश्यकताएँ
 
