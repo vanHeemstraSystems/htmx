@@ -1,8 +1,8 @@
-Repository-Name
+htmx
 
-# Repository-Name
+# HTMX
 
-> Slugline
+> leistungsstarke Tools für HTML
 
 -   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
