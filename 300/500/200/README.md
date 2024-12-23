@@ -4,7 +4,7 @@ Below are a set of UX patterns implemented in htmx with minimal HTML and styling
 
 You can copy and paste them and then adjust them for your needs.
 
-|| Pattern ||	Description ||
+| Pattern |	Description |
 | --- | --- |
 | Click To Edit	| Demonstrates inline editing of a data object |
 
