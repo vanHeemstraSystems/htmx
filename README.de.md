@@ -2,7 +2,7 @@ htmx
 
 # HTMX
 
-> high power tools for HTML
+> leistungsstarke Tools für HTML
 
 -   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
@@ -15,7 +15,7 @@ htmx
 
 Die HyperMedia-Driven Architecture (HDA)-Architektur ist eine Synthese zweier vorhergehender Architekturen: der ursprünglichen Multi-Page Application (MPA)-Architektur und der (relativ) neueren Single-Page Application (SPA)-Architektur.
 
-Es versucht, die Vorteile beider zu nutzen: die Einfachheit und Zuverlässigkeit von MPAs, mit a[REST-fähige Architektur](https://developer.mozilla.org/en-US/docs/Glossary/REST) that uses [Hypermedia als Motor des Anwendungsstatus](https://htmx.org/essays/hateoas/), while providing a better user experience, on par with SPAs in many cases.
+Es versucht, die Vorteile beider zu nutzen: die Einfachheit und Zuverlässigkeit von MPAs, mit a[REST-fähige Architektur](https://developer.mozilla.org/en-US/docs/Glossary/REST)das nutzt[Hypermedia als Motor des Anwendungsstatus](https://htmx.org/essays/hateoas/), bieten aber gleichzeitig ein besseres Benutzererlebnis, das in vielen Fällen mit SPAs vergleichbar ist.
 
 ## 100 - Einführung
 
