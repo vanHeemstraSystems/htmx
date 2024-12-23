@@ -1,4 +1,4 @@
-htmx
+HTMX
 
 # HTMX
 
@@ -8,12 +8,12 @@ htmx
 -   [詞彙表](./GLOSSARY.md)
 -   [圖片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
--   [參考](./REFERENCES.md)
--   [遙測](./TELEMETRY.md)
+-   [References](./REFERENCES.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **執行摘要**
 
-文字
+Text
 
 ## 100 - 簡介
 
@@ -27,6 +27,6 @@ htmx
 
 看[README.md](./300/README.md)
 
-## 400 - 結論
+## 400 - Conclusion
 
 看[README.md](./400/README.md)
