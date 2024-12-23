@@ -1,6 +1,6 @@
 htmx
 
-# HTML
+# HTMX
 
 > krachtige tools voor HTML
 
