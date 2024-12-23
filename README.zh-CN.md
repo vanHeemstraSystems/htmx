@@ -1,11 +1,11 @@
-HTMX
+htmx
 
 # HTMX
 
 > 强大的 HTML 工具
 
 -   [文档](./DOCUMENTATION.md)
--   [词汇表](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [图片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [参考](./REFERENCES.md)
@@ -17,7 +17,7 @@ HTMX
 
 ## 100 - 简介
 
-看[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - 要求
 
