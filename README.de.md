@@ -4,14 +4,14 @@ htmx
 
 > leistungsstarke Tools für HTML
 
--   [Dokumentation](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
 -   [Bilder](./IMAGES.md)
 -   [Gedämpft](./PODMAN.md)
 -   [Referenzen](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Zusammenfassung**
+**Executive Summary**
 
 Text
 
