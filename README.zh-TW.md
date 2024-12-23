@@ -1,8 +1,8 @@
-儲存庫名稱
+HTMX
 
-# 儲存庫名稱
+# HTMX
 
-> 斯拉格萊恩
+> 強大的 HTML 工具
 
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
@@ -17,7 +17,7 @@
 
 ## 100 - 簡介
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
 ## 200 - 要求
 
@@ -25,7 +25,7 @@ See [README.md](./100/README.md)
 
 ## 300 - 建立我們的應用程式
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
 ## 400 - 結論
 
