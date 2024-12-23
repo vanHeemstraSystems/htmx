@@ -13,11 +13,11 @@ htmx
 
 **ملخص تنفيذي**
 
-The HyperMedia-Driven Architecture (HDA) architecture is a synthesis of two preceding architectures: the original Multi-Page Application (MPA) architecture and the (relatively) newer Single-Page Application (SPA) architecture.
+إن بنية HyperMedia-Driven Architecture (HDA) هي عبارة عن توليفة من معماريتين سابقتين: بنية التطبيق متعدد الصفحات (MPA) الأصلية وبنية تطبيق الصفحة الواحدة (SPA) الأحدث (نسبيًا).
 
-It attempts to capture the advantages of both: the simplicity and reliability of MPAs, with a [هندسة معمارية REST-ful](https://developer.mozilla.org/en-US/docs/Glossary/REST)الذي يستخدم[الوسائط التشعبية كمحرك لحالة التطبيق](https://htmx.org/essays/hateoas/), while providing a better user experience, on par with SPAs in many cases.
+وهو يحاول التقاط مزايا كليهما: بساطة وموثوقية المناطق البحرية المحمية، مع أ[هندسة معمارية REST-ful](https://developer.mozilla.org/en-US/docs/Glossary/REST)الذي يستخدم[الوسائط التشعبية كمحرك لحالة التطبيق](https://htmx.org/essays/hateoas/)، مع توفير تجربة أفضل للمستخدم، على قدم المساواة مع SPA في كثير من الحالات.
 
-## 100- مقدمة
+## 100 - Introduction
 
 يرى[README.md](./100/README.md)
 
