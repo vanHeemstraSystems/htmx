@@ -1,8 +1,8 @@
-HTMX
+htmx
 
 # HTMX
 
-> high power tools for HTML
+> 強大的 HTML 工具
 
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
