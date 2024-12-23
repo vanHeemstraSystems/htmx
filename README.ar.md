@@ -5,28 +5,28 @@
 > سلوجلاين
 
 -   [التوثيق](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [مسرد](./GLOSSARY.md)
 -   [الصور](./IMAGES.md)
 -   [مهزوما](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
-**Executive Summary**
+**ملخص تنفيذي**
 
 نص
 
-## 100 - Introduction
+## 100- مقدمة
 
 يرى[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - المتطلبات
 
-See [README.md](./200/README.md)
+يرى[README.md](./200/README.md)
 
 ## 300 – بناء تطبيقنا
 
 يرى[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - الخاتمة
 
 يرى[README.md](./400/README.md)
