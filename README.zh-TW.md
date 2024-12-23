@@ -4,14 +4,14 @@ HTMX
 
 > 強大的 HTML 工具
 
--   [文件](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
 -   [圖片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [參考](./REFERENCES.md)
 -   [遙測](./TELEMETRY.md)
 
-**執行摘要**
+**Executive Summary**
 
 超媒體驅動架構 (HDA) 架構是兩種先前架構的綜合：原始的多頁面應用程式 (MPA) 架構和（相對）較新的單頁應用程式 (SPA) 架構。
 
