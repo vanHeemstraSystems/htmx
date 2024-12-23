@@ -1,4 +1,4 @@
-htmx
+HTMX
 
 # HTMX
 
