@@ -5,3 +5,4 @@
 - [Flask HTMX](https://github.com/edmondchuc/flask-htmx)
 - [HTMX Flask](https://github.com/cscortes/htmxflask])
 - [HTMX Examples with Flask](https://github.com/Konfuzian/htmx-examples-with-flask/)
+- [Study Group - Exploring Svelte & SvelteKit, Part 5 (HTMX & AMP)](https://www.youtube.com/watch?v=irCfKcvepyA)
