@@ -2,7 +2,7 @@ htmx
 
 # HTML
 
-> krachtige tools voor HTML
+> high power tools for HTML
 
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
@@ -17,7 +17,7 @@ De HyperMedia-Driven Architecture (HDA) -architectuur is een synthese van twee v
 
 Het probeert de voordelen van beide te benutten: de eenvoud en betrouwbaarheid van MPA's, met een[REST-volle Architectuur](https://developer.mozilla.org/en-US/docs/Glossary/REST)dat gebruikt[Hypermedia als motor van applicatiestatus](https://htmx.org/essays/hateoas/), terwijl het een betere gebruikerservaring biedt, vergelijkbaar met SPA's in veel gevallen.
 
-## 100 - Inleiding
+## 100 - Introduction
 
 Zien[README.md](./100/README.md)
 
